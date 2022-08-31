@@ -13,6 +13,7 @@ HAVING avg(maas)>3000
 
 --ODEV
 --Erkek çalışanların sayısı 1’den fazla olan ülkelerin maaş ortalamasını getiren sorgu
+select ulke, count
 
 
 
